@@ -76,7 +76,7 @@ Minimizing LOC involves strategies like avoiding duplication, writing small func
 - [Coding Standards and Best Practices to Follow](https://www.browserstack.com/guide/coding-standards-best-practices)
 - [How important is it to reduce the number of lines in code?](https://softwareengineering.stackexchange.com/questions/185925/how-important-is-it-to-reduce-the-number-of-lines-in-code)
 - [What is the ideal length of a method for you?](https://softwareengineering.stackexchange.com/questions/133404/what-is-the-ideal-length-of-a-method-for-you)
-- [The Five Lines of Code Principle: Why Less is More in Programming](https://dev.to/kanani_nirav/the-five-lines-of-code- principle-why-less-is-more-in-programming-31j6)
+- [The Five Lines of Code Principle: Why Less is More in Programming](https://dev.to/kanani_nirav/the-five-lines-of-code-%20principle-why-less-is-more-in-programming-31j6)
 - [10 Effective Strategies for Managing Lines of Code in Software Development](https://locse.com/10-effective-strategies-for-managing-lines-of-code-in-software-development/)
 - [How Long Should Functions Be? How Do We Measure It?](https://medium.com/swlh/how-long-should-functions-be-how-do-we-measure-it-cccbdcd8374c)
 - [Coding Standards and Guidelines](https://www.geeksforgeeks.org/coding-standards-and-guidelines/)
